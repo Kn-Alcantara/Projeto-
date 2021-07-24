@@ -1,10 +1,17 @@
-import './App.css';
 import { Routes } from './Routes';
+import {TabBar} from './components/Tab-Bar'
 
+const App = () => {
+  
 
-
-const App = () => (
-   <Routes/>
-);
+  return (
+    <>
+      <Routes />
+      <TabBar /> 
+    </>
+    
+  )
+  
+};
 
 export default App;
