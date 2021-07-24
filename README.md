@@ -2,6 +2,7 @@
 
 Projeto desenvolvido durante o curso [Estartando Devs ](https://estartandodevs.com.br/)
 
+Layout do Projeto [Clone Netflix](https://www.figma.com/file/dFeDA8wljJ57VNlRXp8hwa/Netflix-new-feature-(Community)?node-id=0%3A1)
 # 📱 Deploy
 
 
