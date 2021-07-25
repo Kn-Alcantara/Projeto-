@@ -1,9 +1,9 @@
 import './index.scss';
-import home from '../../img/home.png';
-import research from '../../img/research.png';
-import downloads from '../../img/downloads.png';
-import more from '../../img/more.png';
-import breve from '../../img/breve.png';
+import home from '../../assets/img/home.png';
+import research from '../../assets/img/research.png';
+import downloads from '../../assets/img/downloads.png';
+import more from '../../assets/img/more.png';
+import breve from '../../assets/img/breve.png';
 
 const TabBar = () => {
   
